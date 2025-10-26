@@ -97,22 +97,6 @@
 
 ---
 
-## GitHub Analytics
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rishabh23rohil&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" alt="Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh23rohil&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" alt="Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh23rohil&theme=radical&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=A855F7&currStreakLabel=FFFFFF" alt="Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabh23rohil&theme=react-dark&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF" alt="Activity graph"/>
-</div>
-
----
-
 ## Connect
 **LinkedIn:** [rishabh-rohil](https://linkedin.com/in/rishabh-rohil)  
 **Email:** rishabh.rohil@tamu.edu  
