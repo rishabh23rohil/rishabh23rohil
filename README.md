@@ -19,6 +19,7 @@
 ## Experience Highlights
 | Role | Organization | Period | Key Achievements |
 |------|---------------|--------|-----------------|
+| **Teaching Assistant** | Texas A&M University (College Station, TX) | Jan 2025 – Present | Supporting Information Security course for 80 students, facilitating learning and providing academic guidance. |
 | **Software Engineering Intern** | Trading Technologies (Chicago, IL) | May 2025 – Dec 2025 | Migrated legacy PHP backend to Rust with async execution, reducing deployment time from 8 minutes to under 1 minute. Designed service-level validation tooling for distributed systems, saving developers 100+ hours on unit tests. Achieved 80% code coverage with 100+ tests. |
 | **Research Assistant** | Texas A&M Agrilife (College Station, TX) | Sep 2024 – May 2025 | Engineered Java-based automation tools using multithreading to coordinate greenhouse and field experiment workflows, reducing manual setup time by ~40%. Implemented scalable scheduling application collaborating with 23 researchers. |
 | **Software Engineer** | Trading Technologies (Ahmedabad, GJ) | Jul 2023 – Jul 2024 | Developed Python-based batch processing systems on AWS, processing 500M+ records for analytics & compliance. Automated batch job execution using Jenkins pipelines, reducing manual effort by 8-10 hours per week. |
