@@ -10,19 +10,18 @@
 ---
 
 ## About Me
-- Software Engineer passionate about **backend systems**, **cloud automation**, and **data-driven AI**.
-- Experience designing **low-latency pipelines**, **Rust/Python microservices**, and **CI/CD frameworks** for financial-technology environments.
-- Pursuing **M.S. Information Systems** @ Texas A&M University (2024–26) · B.Tech @ IIT Gandhinagar (2019–23).
+- Software Engineer passionate about **backend systems**, **distributed systems**, and **cloud infrastructure**.
+- Experience building **high-performance microservices**, **validation tooling**, and **automated workflows** for financial-technology and research environments.
+- Pursuing **M.S. Information Systems** @ Texas A&M University (Aug 2024 – May 2026) · B.Tech @ IIT Gandhinagar (Aug 2019 – Jul 2023).
 
 ---
 
 ## Experience Highlights
-| Role | Organization | Key Work |
-|------|---------------|-----------|
-| **Software Engineer – Infrastructure** | Trading Technologies (Chicago 🇺🇸) | Built PHPUnit mock frameworks for core backend services (WebSocket, SNS, AuditServer) eliminating AWS/DB dependencies and cutting integration latency by 40%. Migrated a PHP microservice to Rust → deployment time 8 → 1 min. |
-| **Software Engineer – Data Systems** | Trading Technologies (Chicago 🇺🇸) | Designed Python workflows triggering **AWS EMR Spark** jobs via Jenkins API, reducing trade-data batch cycles from overnight to ~10 min and improving analytics speed by 95%. |
-| **Research Assistant** | Texas A&M AgriLife (College Station 🇺🇸) | Created *Tomato AI* — an LLM pipeline over 500 + research papers to identify tomato varieties optimized for stress and drought tolerance. |
-| **Software Engineer – Data Systems** | Trading Technologies (Ahmedabad 🇮🇳) | Deployed Python schedulers on AWS EC2 running 120 + compliance workflows (+45 % throughput). Benchmarked EMR vs EC2 (≈40 % faster · 25 % costlier). |
+| Role | Organization | Period | Key Achievements |
+|------|---------------|--------|-----------------|
+| **Software Engineering Intern** | Trading Technologies (Chicago, IL) | May 2025 – Dec 2025 | Migrated legacy PHP backend to Rust with async execution, reducing deployment time from 8 minutes to under 1 minute. Designed service-level validation tooling for distributed systems, saving developers 100+ hours on unit tests. Achieved 80% code coverage with 100+ tests. |
+| **Research Assistant** | Texas A&M Agrilife (College Station, TX) | Sep 2024 – May 2025 | Engineered Java-based automation tools using multithreading to coordinate greenhouse and field experiment workflows, reducing manual setup time by ~40%. Implemented scalable scheduling application collaborating with 23 researchers. |
+| **Software Engineer** | Trading Technologies (Ahmedabad, GJ) | Jul 2023 – Jul 2024 | Developed Python-based batch processing systems on AWS, processing 500M+ records for analytics & compliance. Automated batch job execution using Jenkins pipelines, reducing manual effort by 8-10 hours per week. |
 
 ---
 
@@ -30,52 +29,53 @@
 <div align="center">
 
 ### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![EMR](https://img.shields.io/badge/AWS%20EMR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![EMR](https://img.shields.io/badge/EMR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=rest&logoColor=white)
 
-### Data & Analytics
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+### Databases & Caching
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 </div>
 
 ---
 
 ## Selected Projects
-- **Distributed RAG Index Builder** — AWS EMR pipeline for 500 + PDFs → Lucene HNSW indexes on S3; reduced retrieval latency > 40%.  
-- **Titlebar-API v2 Migration** — Rust async rewrite + CI/CD parallelism → deployment 8 → 1 min.  
-- **Compliance Data Scheduler** — AWS EC2 automation handling 120 + jobs daily with secure anonymization.
+- **Spring Boot E-Commerce Backend** — Implemented REST APIs with JWT authentication, access control, and product CRUD with search & pagination. Introduced Redis caching with ETags and write invalidation to reduce repeated read latency under load.
+- **Distributed RAG Index Builder** — Designed a MapReduce pipeline on AWS EMR to process 500 PDFs and generate partitioned Lucene HNSW indexes. Developed reducers and fan-in retrieval on EC2 with configuration-driven runs, logging, and validation checks.
+- **MCP Context Engine** — Created a context service using Python and FastAPI that ingests files and notes and exposes a retrieval API for downstream applications. Added connectors and scheduled refresh jobs with structured configurations and health checks for reliability.
+- **ETL and Polyglot Persistence** — Migrated a POS system to MariaDB and MongoDB on AWS EC2, processing 4,000+ daily orders. Integrated SQL and NoSQL stores to support polyglot persistence and scale data handling for projected growth.
 
 ---
 
 ## Education
-| Degree | Institution | Period | GPA |
-|---|---|---|---|
-| M.S. Information Systems | **Texas A&M University** | 2024 – 2026 | 3.65 / 4.0 |
-| B.Tech Engineering | **IIT Gandhinagar** | 2019 – 2023 | 3.84 / 4.0 |
+| Degree | Institution | Period |
+|---|---|---|
+| M.S. Information Systems | **Texas A&M University** | Aug 2024 – May 2026 |
+| B.Tech Engineering | **IIT Gandhinagar** | Aug 2019 – Jul 2023 |
 
 ---
 
@@ -99,8 +99,9 @@
 
 ## Connect
 **LinkedIn:** [rishabh-rohil](https://linkedin.com/in/rishabh-rohil)  
-**Email:** rishabh.rohil@tamu.edu  
-**GitHub:** [rishabh23rohil](https://github.com/rishabh23rohil)
+**Email:** [rishabh.rohil@tamu.edu](mailto:rishabh.rohil@tamu.edu)  
+**GitHub:** [rishabh23rohil](https://github.com/rishabh23rohil)  
+**Phone:** 979-344-3949
 
 ---
 
