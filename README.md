@@ -34,8 +34,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -51,8 +51,8 @@
 ### Frameworks & Libraries
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=rest&logoColor=white)
+![Apache Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![Apache Lucene](https://img.shields.io/badge/Lucene-FF6F00?style=for-the-badge&logo=apache&logoColor=white)
 
 ### Databases & Caching
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -64,11 +64,62 @@
 
 ---
 
-## Selected Projects
-- **Spring Boot E-Commerce Backend** — Implemented REST APIs with JWT authentication, access control, and product CRUD with search & pagination. Introduced Redis caching with ETags and write invalidation to reduce repeated read latency under load.
-- **Distributed RAG Index Builder** — Designed a MapReduce pipeline on AWS EMR to process 500 PDFs and generate partitioned Lucene HNSW indexes. Developed reducers and fan-in retrieval on EC2 with configuration-driven runs, logging, and validation checks.
-- **MCP Context Engine** — Created a context service using Python and FastAPI that ingests files and notes and exposes a retrieval API for downstream applications. Added connectors and scheduled refresh jobs with structured configurations and health checks for reliability.
-- **ETL and Polyglot Persistence** — Migrated a POS system to MariaDB and MongoDB on AWS EC2, processing 4,000+ daily orders. Integrated SQL and NoSQL stores to support polyglot persistence and scale data handling for projected growth.
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [E-Commerce Backend API](https://github.com/rishabh23rohil/ecommerce-springboot)
+REST API with JWT authentication, RBAC, Redis caching with ETags, and Docker orchestration. Includes CI/CD pipeline and 80%+ test coverage.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### [RAG Pipeline on AWS EMR](https://github.com/rishabh23rohil/RAG-LLM-AWS)
+Distributed MapReduce pipeline processing documents into partitioned Lucene HNSW vector indexes. Includes REST API for semantic search.
+
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat&logo=scala&logoColor=white)
+![AWS EMR](https://img.shields.io/badge/AWS_EMR-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Lucene](https://img.shields.io/badge/Lucene-FF6F00?style=flat&logo=apache&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [C++ Thread Pool Library](https://github.com/rishabh23rohil/cpp-threadpool)
+Header-only thread pool with work-stealing, priority scheduling, and future/promise support. Implements modern C++17 concurrency patterns.
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### [MCP Context Engine](https://github.com/rishabh23rohil/mcp-context-engine)
+Context middleware with natural language query parsing, Google Calendar integration, and intelligent slot suggestion.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rishabh23rohil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh23rohil&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+</div>
 
 ---
 
@@ -80,17 +131,17 @@
 
 ---
 
-## Achievements & Certifications
+## Certifications
 <div align="center">
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="120" alt="AWS Logo"/><br/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="100" alt="AWS Logo"/><br/>
         <strong>AWS Certified AI Practitioner</strong>
       </td>
       <td align="center" width="50%">
-        <strong style="font-size:16px;">Professional Scrum Master I (PSM-I)</strong><br/>
-        <span style="color:#777;font-size:12px;">Scrum.org Certification</span>
+        <strong>Professional Scrum Master I (PSM-I)</strong><br/>
+        <em>Scrum.org</em>
       </td>
     </tr>
   </table>
@@ -99,10 +150,14 @@
 ---
 
 ## Connect
-**LinkedIn:** [rishabh-rohil](https://linkedin.com/in/rishabh-rohil)  
-**Email:** [rishabh.rohil@tamu.edu](mailto:rishabh.rohil@tamu.edu)  
-**GitHub:** [rishabh23rohil](https://github.com/rishabh23rohil)  
-**Phone:** 979-344-3949
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabh-rohil)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishabh.rohil@tamu.edu)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishabh23rohil)
+
+</div>
 
 ---
 
@@ -111,11 +166,3 @@
   <br/>
   <img src="https://komarev.com/ghpvc/?username=rishabh23rohil&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views"/>
 </div>
-
----
-
-### Attribution and Brand Use
-This README uses only permitted third-party assets:
-- GitHub-hosted stat and streak widgets (no modified trademarks).  
-- Product names and logos such as *AWS* are property of their respective owners, referenced here solely for identification of skills and certifications.  
-No endorsement or affiliation is implied.
